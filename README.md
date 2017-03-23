@@ -1,13 +1,9 @@
 # HEY MAN HOW YOU DOIN????
 
-I am just typing random things because I want to code
-I am testing GitHub and seeing how good this is.
-I hope this is good
-I hope that I don't start every line with "I"
-I think I do.
-I am seriously not doing this on purpose.
-I think it's done
-No it's not
-WAIT, YES IT IS!!!!!!
-YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
-<h1>test</h1>
+<p>I like to code. I am using HTML5 at the moment</p>
+<h6>That was a paregraph</h6>
+<h5>Bigger</h5>
+<h4>Bigger</h4>
+<h3>Getting bigger...</h3>
+<h2>Almost there........</h2>
+<h1>HERE'S, JOHNNY!!!!!!!</h1>
